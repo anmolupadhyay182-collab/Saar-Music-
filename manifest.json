@@ -1,0 +1,29 @@
+{
+  "name": "Saar Music",
+  "short_name": "Saar Music",
+  "description": "A modern, premium and ad-free music experience.",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+
+  "theme_color": "#7C3AED",
+  "background_color": "#090D18",
+
+  "icons": [
+    {
+      "src": "./music.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./music.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
