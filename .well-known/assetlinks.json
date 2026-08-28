@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.netlify.saarmusic.twa",
-        "sha256_cert_fingerprints": ["59:B1:D4:E9:07:F8:5E:F6:A8:7F:4E:7B:2D:F4:F7:70:B0:01:8D:1F:47:58:79:1B:E5:9B:2D:94:CB:27:C6:B4"]
-      }
-    }]
